@@ -1,0 +1,18 @@
+Sprint: 01
+Data da Reunião: 21/07/25
+Facilitador: Deyvid Rangel
+
+O que funcionou bem:
+1 - A criação de branches separadas facilitou o desenvolvimento isolado de cada história.
+2 - O uso do Git permitiu rastrear todas as alterações com clareza.
+3 - O merge das alterações com a branch principal foi feito com sucesso e sem conflitos.
+
+O que não funcionou bem:
+1 - O processo de commit poderia ter sido mais dividido em partes menores para facilitar o acompanhamento.
+2 - A comunicação entre tarefas foi limitada por ser uma atividade individual.
+
+Sugestões de melhoria:
+1 - Utilizar mensagens de commit mais descritivas e específicas.
+2 - Criar checkpoints intermediários com mais frequência durante os commits.
+3 - Em um ambiente real, integrar revisões de código (code review) entre os membros da equipe.
+

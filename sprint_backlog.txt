@@ -1,1 +1,11 @@
-Sprint Backlog
+Sprint: 01
+Data de Início: 21/07/25
+Duração: 1 dia
+Equipe: Deyvid Rangel
+
+Histórias Selecionadas para o Sprint:
+ID - 1	Alterar a cor dos nomes dos veículos no arquivo index.html
+Esforço Estimado (em pontos): 2
+	
+ID - 3	Atualizar a descrição dos links no arquivo contato.html
+Esforço Estimado (em pontos): 1

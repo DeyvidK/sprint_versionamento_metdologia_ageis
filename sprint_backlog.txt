@@ -5,7 +5,7 @@ Equipe: Deyvid Rangel
 
 Histórias Selecionadas para o Sprint:
 ID - 1	Alterar a cor dos nomes dos veículos no arquivo index.html
-Esforço Estimado (em pontos): 2
+Esforço Estimado: 1 hora
 	
 ID - 3	Atualizar a descrição dos links no arquivo contato.html
-Esforço Estimado (em pontos): 1
+Esforço Estimado: 1 hora
